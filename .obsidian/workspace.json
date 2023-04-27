@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "README.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": true
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,9 +149,16 @@
   },
   "active": "1f08919d8df322e0",
   "lastOpenFiles": [
-    "未命名",
-    "README.md",
+    "docs/指令详解/set.md",
+    "docs/指令详解/break.md",
+    "docs/指令详解/find.md",
+    "体系架构/x86_64.md",
+    "体系架构/aarch64.md",
+    "体系架构",
+    "体系架构.md",
     "SUMMARY.md",
+    "README.md",
+    "未命名",
     "docs/openeuler20_03.md",
     "docs/centos8.md",
     "docs/centos7.md",

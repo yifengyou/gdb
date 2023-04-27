@@ -2,6 +2,9 @@
 
 * [读我](README.md)
 * [快速入门](快速入门.md)
+* [体系架构](体系架构.md)
+    * [x86_64](体系架构/x86_64.md)
+    * [aarch64](体系架构/aarch64.md)
 * [指令详解](docs/指令详解.md)
     * [info](docs/指令详解/info.md)
     * [backtrace](docs/指令详解/backtrace.md)
