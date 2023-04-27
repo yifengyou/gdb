@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "theme": "system",
-  "baseFontSize": 24
+  "baseFontSize": 24,
+  "nativeMenus": true
 }

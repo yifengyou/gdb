@@ -12,10 +12,13 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 * [指令详解](docs/指令详解.md)
     * [info](docs/指令详解/info.md)
     * [backtrace](docs/指令详解/backtrace.md)
+* [使能coredump](docs/使能coredump.md)
+    * [centos7](docs/centos7.md)
+    * [centos8](docs/centos8.md)
+    * [openeuler20.03](docs/openeuler20_03.md)
 * [coredump案例](docs/coredump案例.md)
     * [数组非法访问](docs/coredump案例/数组非法访问.md)
     * [栈溢出](docs/coredump案例/栈溢出.md)
-
 
 
 
